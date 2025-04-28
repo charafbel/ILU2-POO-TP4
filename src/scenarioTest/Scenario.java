@@ -1,8 +1,8 @@
 package scenarioTest;
 
 import personnages.Gaulois;
-import produits.Poisson;
-import produits.Sanglier;
+import produit.Poisson;
+import produit.Sanglier;
 import villagegaulois.Etal;
 
 public class Scenario {
@@ -12,7 +12,7 @@ public class Scenario {
 		// TODO Partie 4 : creer de la classe anonyme Village
 
 		// fin
-
+		/*
 		Gaulois ordralfabetix = new Gaulois("Ordralfabétix", 9);
 		Gaulois obelix = new Gaulois("Obélix", 20);
 		Gaulois asterix = new Gaulois("Astérix", 6);
@@ -41,6 +41,7 @@ public class Scenario {
 		village.acheterProduit("sanglier", 3);
 
 		System.out.println(village);
+		*/
 	}
 
 }

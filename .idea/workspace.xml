@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f96440a-fcf7-4316-b61d-4b3d725ec059" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ILU2-POO-TP4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/produit/IProduit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/produit/Poisson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/produit/Produit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/produit/Sanglier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/villagegaulois/IEtal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scenarioTest/Scenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scenarioTest/Scenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scenarioTest/ScenarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scenarioTest/ScenarioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/villagegaulois/Etal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/villagegaulois/Etal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/villagegaulois/IVillage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/villagegaulois/IVillage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +59,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Scenario.executor": "Run",
+    "Application.ScenarioTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/charafbelghiti/Desktop/ILU2/ILU2-POO-TP4",
@@ -68,8 +81,43 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="produit" />
       <recent name="villagegaulois" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.ScenarioTest">
+    <configuration name="Scenario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scenarioTest.Scenario" />
+      <module name="ILU2-POO-TP4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scenarioTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScenarioTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scenarioTest.ScenarioTest" />
+      <module name="ILU2-POO-TP4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scenarioTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScenarioTest" />
+        <item itemvalue="Application.Scenario" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -90,7 +138,7 @@
       <workItem from="1745596216787" duration="4294000" />
       <workItem from="1745767554379" duration="1041000" />
       <workItem from="1745769017290" duration="73000" />
-      <workItem from="1745769102872" duration="353000" />
+      <workItem from="1745769102872" duration="8299000" />
     </task>
     <servers />
   </component>
